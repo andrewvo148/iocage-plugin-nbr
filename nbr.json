@@ -1,6 +1,6 @@
 {
     "name": "nbr",
-    "release": "11.3-RELEASE",
+    "release": "12.2-RELEASE",
     "artifact": "https://github.com/NAKIVO/iocage-plugin-nbr.git",
     "properties": {
         "allow_raw_sockets": "1",
