@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="https://d96i82q710b04.cloudfront.net/res/product/NAKIVO_Backup_Replication_v10.4.0.57464_Installer-TRIAL.sh"
+URL="https://uc2aac52d958536f57a6f10eb3b6.dl.dropboxusercontent.com/cd/0/get/BX3pn1Kz4MRO_1NvGrwJ2ERATTbxdpSI6Y-H7D-Tc9eLt_ovfqAUIYIZ4JnRJCi9eF2m2yT1v0DXGbmB2ZQ9-2DLlTvX8dPgXKu8YV9FUPzeoNONwjofqqFT4N9WB0MZB5-yaEHmuElHLG_C01pc5v4q/file?dl=1#"
 SHA256="246c2aeacd0996e8c15d532ab40ae53b7cfdb5251e76ed353f3e9a06d3738452"
 
 PRODUCT_ROOT="/usr/local/nakivo"
@@ -14,12 +14,12 @@ if [ $? -ne 0 -o ! -e $INSTALL ]; then
     exit 1
 fi
 
-CHECKSUM=`sha256 -q $INSTALL`
-if [ "$SHA256" != "$CHECKSUM" ]; then
-    echo "ERROR: Incorrect $PRODUCT installer checksum"
-    rm $INSTALL >/dev/null 2>&1
-    exit 2
-fi
+# CHECKSUM=`sha256 -q $INSTALL`
+# if [ "$SHA256" != "$CHECKSUM" ]; then
+#     echo "ERROR: Incorrect $PRODUCT installer checksum"
+#     rm $INSTALL >/dev/null 2>&1
+#     exit 2
+# fi
 
 sh ./$INSTALL -f -y -i "$PRODUCT_ROOT" --eula-accept --extract 2>&1
 if [ $? -ne 0 ]; then
