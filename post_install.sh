@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="https://uca0f1e3b8e3e9990b66f15ee92c.dl.dropboxusercontent.com/cd/0/get/BYCAeBqRbbyeKWBz6LmuUfjzvejAM9guChEW9oFnw_j27Ng0GFT8N9toE8xFwo0jR5YUqk5LuV6Ic-lmp79qdAo8s2b-TL2hZwmOl_BzuWmDq31vWRz2nwKcPrYi_GGfABG5xQVGfEH1lKQsiVGcQTkB/file?_download_id=449052746187775819841166654559794307714230832925046346621357157489&_notify_domain=www.dropbox.com&dl=1"
+URL="https://download848.mediafire.com/q7gvtcu9dkwg/jkl1nt6bn4ttvji/NAKIVO_Backup_%26_Replication_v10.4.0.59271_Installer-TRIAL.sh"
 SHA256="246c2aeacd0996e8c15d532ab40ae53b7cfdb5251e76ed353f3e9a06d3738452"
 
 PRODUCT_ROOT="/usr/local/nakivo"
