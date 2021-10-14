@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="https://uc5682b972f5469b53fc5a1013cc.dl.dropboxusercontent.com/cd/0/get/BXmZ8AcczjHMwfiPrqc0mnsql_yBaN2FPlGCPYORRjsWZNpWmSsZ00lW5M6iWDjN6y2_Ajj_69DtwUuMCbfDtGNm3qOEVs2gNTcCOgZVWzEzHC1nn6aQ2ztwcWuIjt7y6xUtW2lAZHL7BAsp3sGaaL6A/file?dl=1#"
+URL="https://uc54ae4a16dde28a7ff88c5e3e25.dl.dropboxusercontent.com/cd/0/get/BYC5T7J-WRd2lHdSVoWg0_5fqUCYL_3TEOl1JHyvvC7SacoARuK3rZdPVkjzKky6-WbmGF1HeLVwi7gSsd8hDfYjetvvDa0DhwO3_wfCO4dafOkRVaatnhRrcpOCf8vDO5mK98fS1Neih7RPMD6WFlc1/file?_download_id=4858674755859451690910182252865487568750073088268572940284025514&_notify_domain=www.dropbox.com&dl=1"
 SHA256="246c2aeacd0996e8c15d532ab40ae53b7cfdb5251e76ed353f3e9a06d3738452"
 
 PRODUCT_ROOT="/usr/local/nakivo"
