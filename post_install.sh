@@ -1,8 +1,8 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="https://uc2aac52d958536f57a6f10eb3b6.dl.dropboxusercontent.com/cd/0/get/BX3pn1Kz4MRO_1NvGrwJ2ERATTbxdpSI6Y-H7D-Tc9eLt_ovfqAUIYIZ4JnRJCi9eF2m2yT1v0DXGbmB2ZQ9-2DLlTvX8dPgXKu8YV9FUPzeoNONwjofqqFT4N9WB0MZB5-yaEHmuElHLG_C01pc5v4q/file?dl=1#"
-SHA256="246c2aeacd0996e8c15d532ab40ae53b7cfdb5251e76ed353f3e9a06d3738452"
+URL="http://192.168.21.103/10.5/Free_v10.5.0.59774.sh"
+SHA256="dcaccc47c886dd1231b77f99fa20d01076328ed0a0e2d120f26af280ba2be33d"
 
 PRODUCT_ROOT="/usr/local/nakivo"
 INSTALL="inst.sh"
