@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="http://192.168.21.103/10.5/Free_v10.5.0.59774.sh"
+URL="http://10.189.109.173//10.5/Free_v10.5.0.59774.sh"
 SHA256="dcaccc47c886dd1231b77f99fa20d01076328ed0a0e2d120f26af280ba2be33d"
 
 PRODUCT_ROOT="/usr/local/nakivo"
