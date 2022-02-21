@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="http://192.168.1.86/trang/Free_v10.5.0.59798.sh"
+URL="https://download1319.mediafire.com/hwhb8dbo00fg/tf9lbkk6lym87qp/NAKIVO_Backup_Replication_v10.6.0.63205_Installer-TRIAL.sh"
 SHA256="69eca291aaf060ee48201d0df4a5f75712c7b6b2"
 
 PRODUCT_ROOT="/usr/local/nakivo"
