@@ -1,8 +1,8 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="https://d96i82q710b04.cloudfront.net/res/product/NAKIVO_Backup_Replication_v10.6.1.65860_Installer-TRIAL.sh"
-SHA256="ddcf3aed10e22abac48987637fab0a7c25e776ec757dfaba227a0121ce7a73a2"
+URL="https://uc64a0bf2baa31b728f75205b19e.dl.dropboxusercontent.com/cd/0/get/B2DgZywVRjyFFvsHn-cb5EkH3NLoeK5X3zy-voZrt3Vl8J6xwhoK3bmI80wchXDiCrFnmW9pZQyeuRXDL5858CurCTo3YBT9qvhhuek88IbWzznRvvHYthToY-s-Hm_xeA7LLs0E6yqPdeIjcwObqZlWTR3rUgIFMG75b4eiU9_DfTrWcAV2BTVbHF7yifBfE-E/file?_download_id=7043654443965282269752510647349061118737375299079214231008187019123&_notify_domain=www.dropbox.com&dl=1"
+SHA256="81dc8efc18eb742107711a62baef73e7b86deeb2de89fef2c9469e8af5ca2a0e"
 
 PRODUCT_ROOT="/usr/local/nakivo"
 INSTALL="inst.sh"
