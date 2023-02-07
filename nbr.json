@@ -11,7 +11,8 @@
     },
     "pkgs": [
         "ftp/curl",
-        "java/openjdk8-jre"
+        "java/openjdk8-jre",
+        "tar"
     ],
     "packagesite": "http://pkg.freebsd.org/${ABI}/quarterly",
     "fingerprints": {
